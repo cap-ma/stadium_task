@@ -1,0 +1,567 @@
+Watching for file changes with StatReloader
+"GET /api/stadium/book/filter/?booking_date=2025-03-9&start_time=3%3A00&end_time=6%3A00&lat=0&lon=1 HTTP/1.1" 200 45889
+/home/capma/repo/book_stadion/core/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/stadium/book/filter/?booking_date=2025-03-9&start_time=3%3A00&end_time=6%3A00&lat=0&lon=1 HTTP/1.1" 200 45889
+/home/capma/repo/book_stadion/core/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/stadium/book/filter/?booking_date=2025-03-9&start_time=3%3A00&end_time=6%3A00&lat=0&lon=1 HTTP/1.1" 200 45889
+/home/capma/repo/book_stadion/core/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/stadium/book/filter/?booking_date=2025-03-9&start_time=3%3A00&end_time=6%3A00&lat=0&lon=1 HTTP/1.1" 200 45889
+Watching for file changes with StatReloader
+"GET /api/stadium/book/filter/?booking_date=2025-03-9&start_time=3%3A00&end_time=6%3A00&lat=0&lon=1 HTTP/1.1" 200 2344587
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 8119
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 4956
+"GET /admin/ HTTP/1.1" 200 8119
+"GET /swagger HTTP/1.1" 301 0
+"GET /swagger/ HTTP/1.1" 200 1636
+"GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+"GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+"GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+"GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+"GET /swagger/?format=openapi HTTP/1.1" 200 9141
+"GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+"GET /api/stadium/book/filter/?booking_date=2025-03-9&start_time=4%3A00&end_time=20%3A00&lat=1&lon=1 HTTP/1.1" 200 2272565
+/home/capma/repo/book_stadion/core/settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /swagger/ HTTP/1.1" 200 1636
+"GET /admin/ HTTP/1.1" 200 8119
+"GET /swagger/ HTTP/1.1" 200 1636
+"GET /swagger/?format=openapi HTTP/1.1" 200 10685
+"GET /api/stadium/book/filter/?limit=50&offset=100&booking_date=2025-03-09&start_time=2%3A00&end_time=16%3A00&lat=1&lon=1 HTTP/1.1" 200 11811
+/home/capma/repo/book_stadion/core/settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/stadium/book/filter/?limit=50&offset=100&booking_date=2025-03-09&start_time=2%3A00&end_time=16%3A00&lat=1&lon=1 HTTP/1.1" 200 11811
+"GET /api/stadium/book/filter/?limit=500&offset=100&booking_date=2025-03-09&start_time=2%3A00&end_time=16%3A00&lat=1&lon=1 HTTP/1.1" 200 115178
+/home/capma/repo/book_stadion/core/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/capma/repo/book_stadion/core/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/capma/repo/book_stadion/core/settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/stadium/book/filter/?limit=2000&offset=1&booking_date=2025-03-09&start_time=2%3A00&end_time=16%3A00&lat=1&lon=1 HTTP/1.1" 200 459795
+/home/capma/repo/book_stadion/stadium/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/stadium/book/filter/?limit=2000&offset=1&booking_date=2025-03-09&start_time=2%3A00&end_time=16%3A00&lat=1&lon=1 HTTP/1.1" 200 459795
+"GET /api/stadium/book/filter/?limit=2000&offset=1&booking_date=2025-03-09&start_time=2%3A00&end_time=16%3A00&lat=1&lon=1 HTTP/1.1" 200 459795
+"GET /api/stadium/book/filter/?limit=2000&offset=1&booking_date=2025-03-09&start_time=2%3A00&end_time=16%3A00&lat=1&lon=1 HTTP/1.1" 200 459795
+"GET /api/stadium/book/filter/?limit=2000&offset=1&booking_date=2025-03-09&start_time=2%3A00&end_time=16%3A00&lat=1&lon=1 HTTP/1.1" 200 459795
+/home/capma/repo/book_stadion/stadium/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/stadium/book/filter/?limit=2000&offset=1&booking_date=2025-03-09&start_time=2%3A00&end_time=16%3A00&lat=1&lon=1 HTTP/1.1" 200 459795
+"GET /api/stadium/book/filter/?limit=2000&offset=1&booking_date=2025-03-09&start_time=2%3A00&end_time=16%3A00&lat=1&lon=1 HTTP/1.1" 200 459795
+"GET /api/stadium/book/filter/?limit=2000&offset=1&booking_date=2025-03-09&start_time=2%3A00&end_time=16%3A00&lat=1&lon=1 HTTP/1.1" 200 459795
+"GET /api/stadium/book/filter/?limit=2000&offset=1&booking_date=2025-03-09&start_time=2%3A00&end_time=16%3A00&lat=1&lon=1 HTTP/1.1" 200 459795
+"GET /api/stadium/book/filter/?limit=2000&offset=1&booking_date=2025-03-09&start_time=2%3A00&end_time=16%3A00&lat=1&lon=1 HTTP/1.1" 200 459795
+/home/capma/repo/book_stadion/stadium/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/stadium/book/filter/?limit=2000&offset=1&booking_date=2025-03-09&start_time=2%3A00&end_time=16%3A00&lat=1&lon=1 HTTP/1.1" 200 459795
+"GET /api/stadium/book/filter/?limit=2000&offset=1&booking_date=2025-03-09&start_time=2%3A00&end_time=16%3A00&lat=1&lon=1 HTTP/1.1" 200 459795
+"GET /api/stadium/book/filter/?limit=2000&offset=1&booking_date=2025-03-09&start_time=2%3A00&end_time=16%3A00&lat=1&lon=1 HTTP/1.1" 200 459795
+"GET /api/stadium/book/filter/?limit=2000&offset=1&booking_date=2025-03-09&start_time=2%3A00&end_time=16%3A00&lat=1&lon=1 HTTP/1.1" 200 459795
+"GET /api/stadium/book/filter/?limit=100&offset=1&booking_date=2025-03-09&start_time=2%3A00&end_time=16%3A00&lat=1&lon=1 HTTP/1.1" 200 23247
+"GET /api/stadium/book/filter/?limit=100&offset=1&booking_date=2025-03-09&start_time=2%3A00&end_time=16%3A00&lat=1&lon=1 HTTP/1.1" 200 23247
+/home/capma/repo/book_stadion/stadium/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/auth/login/ HTTP/1.1" 200 85
+/home/capma/repo/book_stadion/stadium/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/stadium/create/ HTTP/1.1" 201 128
+"GET /api/stadium/list?limit=10&offset=2 HTTP/1.1" 200 2311
+"GET /api/stadium/detail/3 HTTP/1.1" 200 206
+Bad Request: /api/stadium/update/2
+"PUT /api/stadium/update/2 HTTP/1.1" 400 47
+"PUT /api/stadium/update/2 HTTP/1.1" 200 125
+"PATCH /api/stadium/update/4 HTTP/1.1" 200 124
+"GET /api/stadium/detail/4 HTTP/1.1" 200 124
+"DELETE /api/stadium/delete/3 HTTP/1.1" 204 0
+"POST /api/stadium/book/create HTTP/1.1" 201 148
+Bad Request: /api/stadium/book/create
+"POST /api/stadium/book/create HTTP/1.1" 400 96
+"GET /api/stadium/book/list/?limit=1&offset=1 HTTP/1.1" 200 309
+"GET /api/stadium/book/detail/3 HTTP/1.1" 200 144
+Not Found: /stadium/create
+"POST /stadium/create HTTP/1.1" 404 4966
+Internal Server Error: /api/stadium/create
+Traceback (most recent call last):
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/middleware/common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/middleware/common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/stadium/create/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+"POST /api/stadium/create HTTP/1.1" 500 76188
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+Watching for file changes with StatReloader
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+"POST /api/auth/login/ HTTP/1.1" 200 85
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+"POST /api/auth/login/ HTTP/1.1" 200 81
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+"GET /admin/ HTTP/1.1" 200 8119
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /admin/stadium/user/ HTTP/1.1" 200 10157
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 10241
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+"GET /admin/stadium/user/ HTTP/1.1" 200 10157
+"GET /swagger/ HTTP/1.1" 200 1636
+"GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+"GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+"GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+"GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+"GET /swagger/?format=openapi HTTP/1.1" 200 10607
+"GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+"POST /api/auth/login/ HTTP/1.1" 200 85
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+"GET /api/stadium/list?limit=1&offset=2 HTTP/1.1" 200 390
+Not Found: /api/stadium/book/delete/1
+"DELETE /api/stadium/book/delete/1 HTTP/1.1" 404 48
+/home/capma/repo/book_stadion/core/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/capma/repo/book_stadion/core/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+"GET /swagger/ HTTP/1.1" 200 1636
+"GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+"GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+"GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+"GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+"GET /swagger/?format=openapi HTTP/1.1" 200 10599
+"GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+Watching for file changes with StatReloader
+"GET /swagger/ HTTP/1.1" 200 1636
+"GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+"GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+"GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+"GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+"GET /swagger/?format=openapi HTTP/1.1" 200 10599
+"GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+"POST /api/auth/login/ HTTP/1.1" 200 85
+/home/capma/repo/book_stadion/core/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /swagger/ HTTP/1.1" 200 1636
+"GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+"GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+"GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+"GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+"GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+"GET /swagger/?format=openapi HTTP/1.1" 200 10607
+Bad Request: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 400 47
+"POST /api/stadium/create/ HTTP/1.1" 201 128
+/home/capma/repo/book_stadion/stadium/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/capma/repo/book_stadion/stadium/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/stadium/create/
+Traceback (most recent call last):
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/capma/repo/book_stadion/stadium/views.py", line 100, in post
+    return super().post(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/generics.py", line 194, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/capma/repo/book_stadion/stadium/views.py", line 103, in perform_create
+    serializer.save(owner=self.request.user)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+  File "/home/capma/repo/book_stadion/stadium/serializers.py", line 43, in create
+    print(image_data, 'this is datasa')
+UnboundLocalError: local variable 'image_data' referenced before assignment
+"POST /api/stadium/create/ HTTP/1.1" 500 21126
+/home/capma/repo/book_stadion/stadium/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/stadium/create/ HTTP/1.1" 201 128
+/home/capma/repo/book_stadion/stadium/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/capma/repo/book_stadion/stadium/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /swagger/ HTTP/1.1" 200 1636
+"GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+"GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+"GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+"GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+"GET /swagger/?format=openapi HTTP/1.1" 200 10587
+"GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+"GET /swagger/ HTTP/1.1" 200 1636
+"GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+"GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+"GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+"GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+"GET /swagger/?format=openapi HTTP/1.1" 200 10587
+"GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+/home/capma/repo/book_stadion/stadium/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /swagger/ HTTP/1.1" 200 1636
+"GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+"GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+"GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+"GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+"GET /swagger/?format=openapi HTTP/1.1" 200 10587
+"GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+"GET /swagger/ HTTP/1.1" 200 1636
+"GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+"GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+"GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+"GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+"GET /swagger/?format=openapi HTTP/1.1" 200 10587
+"GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+Watching for file changes with StatReloader
+"GET /swagger/ HTTP/1.1" 200 1636
+"GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+"GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+"GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+"GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+"GET /swagger/?format=openapi HTTP/1.1" 200 10587
+"GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+Watching for file changes with StatReloader
+"GET /swagger/ HTTP/1.1" 200 1636
+"GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+"GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+"GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+"GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+"GET /swagger/?format=openapi HTTP/1.1" 200 10587
+"GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+"POST /api/auth/login/ HTTP/1.1" 200 85
+Bad Request: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 400 97
+Bad Request: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 400 97
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 58
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 27
+Bad Request: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 400 97
+Bad Request: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 400 97
+Bad Request: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 400 41
+"POST /api/stadium/create/ HTTP/1.1" 201 122
+"POST /api/stadium/create/ HTTP/1.1" 201 122
+"POST /api/stadium/create/ HTTP/1.1" 201 122
+"POST /api/stadium/create/ HTTP/1.1" 201 122
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 27
+Unauthorized: /api/stadium/create/
+"POST /api/stadium/create/ HTTP/1.1" 401 27
+"POST /api/stadium/create/ HTTP/1.1" 201 149
+/home/capma/repo/book_stadion/stadium/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/stadium/create/ HTTP/1.1" 201 149
+/home/capma/repo/book_stadion/stadium/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/stadium/create/ HTTP/1.1" 201 149
+/home/capma/repo/book_stadion/stadium/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/stadium/create/ HTTP/1.1" 201 149
+"POST /api/stadium/create/ HTTP/1.1" 201 149
+Watching for file changes with StatReloader
+"POST /api/stadium/create/ HTTP/1.1" 201 149
+Internal Server Error: /api/stadium/create/
+Traceback (most recent call last):
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/capma/repo/book_stadion/stadium/views.py", line 100, in post
+    return super().post(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/generics.py", line 194, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/capma/repo/book_stadion/stadium/views.py", line 103, in perform_create
+    serializer.save(owner=self.request.user)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+  File "/home/capma/repo/book_stadion/stadium/serializers.py", line 55, in create
+    Image.objects.create(football_field=football_field, **image_data)
+TypeError: create() argument after ** must be a mapping, not InMemoryUploadedFile
+"POST /api/stadium/create/ HTTP/1.1" 500 130111
+/home/capma/repo/book_stadion/stadium/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/stadium/create/
+Traceback (most recent call last):
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/capma/repo/book_stadion/stadium/views.py", line 100, in post
+    return super().post(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/generics.py", line 194, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/capma/repo/book_stadion/stadium/views.py", line 103, in perform_create
+    serializer.save(owner=self.request.user)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+  File "/home/capma/repo/book_stadion/stadium/serializers.py", line 55, in create
+    Image.objects.create(football_field=football_field, **image_data)
+TypeError: create() argument after ** must be a mapping, not InMemoryUploadedFile
+"POST /api/stadium/create/ HTTP/1.1" 500 130111
+Internal Server Error: /api/stadium/create/
+Traceback (most recent call last):
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/capma/repo/book_stadion/stadium/views.py", line 100, in post
+    return super().post(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/generics.py", line 194, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/capma/repo/book_stadion/stadium/views.py", line 103, in perform_create
+    serializer.save(owner=self.request.user)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+  File "/home/capma/repo/book_stadion/stadium/serializers.py", line 55, in create
+    Image.objects.create(football_field=football_field, **image_data)
+TypeError: create() argument after ** must be a mapping, not InMemoryUploadedFile
+"POST /api/stadium/create/ HTTP/1.1" 500 130111
+/home/capma/repo/book_stadion/stadium/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/capma/repo/book_stadion/stadium/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/capma/repo/book_stadion/stadium/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/home/capma/repo/book_stadion/stadium/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/stadium/create/
+Traceback (most recent call last):
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/capma/repo/book_stadion/stadium/views.py", line 100, in post
+    return super().post(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/generics.py", line 194, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/capma/repo/book_stadion/stadium/views.py", line 103, in perform_create
+    serializer.save(owner=self.request.user)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+  File "/home/capma/repo/book_stadion/stadium/serializers.py", line 55, in create
+    Image.objects.create(football_field=football_field, **image_data)
+TypeError: create() argument after ** must be a mapping, not InMemoryUploadedFile
+"POST /api/stadium/create/ HTTP/1.1" 500 126133
+/home/capma/repo/book_stadion/stadium/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/stadium/create/
+Traceback (most recent call last):
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/capma/repo/book_stadion/stadium/views.py", line 100, in post
+    return super().post(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/generics.py", line 194, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/capma/repo/book_stadion/stadium/views.py", line 103, in perform_create
+    serializer.save(owner=self.request.user)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/rest_framework/serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+  File "/home/capma/repo/book_stadion/stadium/serializers.py", line 60, in create
+    Image.objects.create(football_field=football_field, name=image.name, path=image)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/db/models/query.py", line 656, in create
+    obj = self.model(**kwargs)
+  File "/home/capma/repo/book_stadion/venv/lib/python3.8/site-packages/django/db/models/base.py", line 567, in __init__
+    raise TypeError(
+TypeError: Image() got unexpected keyword arguments: 'name'
+"POST /api/stadium/create/ HTTP/1.1" 500 141669
+/home/capma/repo/book_stadion/stadium/models.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/stadium/create/ HTTP/1.1" 201 122
