@@ -55,6 +55,7 @@ REST_FRAMEWORK = {
     'PAGE_SIZE': 2000,  # Adjust as needed
 }
 
+
 SWAGGER_SETTINGS = {
     'SECURITY_DEFINITIONS': {
         'Token': {
@@ -165,6 +166,9 @@ TIME_ZONE = 'UTC'
 USE_I18N = True
 
 USE_TZ = True
+
+MEDIA_URL = '/media/'
+MEDIA_ROOT = BASE_DIR / 'uploads'
 
 
 # Static files (CSS, JavaScript, Images)

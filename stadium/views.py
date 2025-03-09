@@ -70,7 +70,7 @@ class UserLogoutView(APIView):
 
 
 class FootballFieldListAPIView(generics.ListAPIView):
-    queryset = FootballField.objects.all()
+    queryset = FootballField.objects.all().order_by('-id')
     serializer_class = FootballFieldSerializer
     authentication_classes = [TokenAuthentication]
     permission_classes = [permissions.AllowAny]
@@ -89,6 +89,10 @@ class FootballFieldDetailAPIView(generics.RetrieveAPIView):
     @method_decorator(swagger_auto_schema(tags=["stadium"]))
     def get(self, request, *args, **kwargs):
         return super().get(request, *args, **kwargs)
+    
+    def get_serializer_context(self):
+        """Pass request context to serializer for full image URLs."""
+        return {'request': self.request}
 
 class FootballFieldCreateAPIView(generics.CreateAPIView):
     serializer_class = FootballFieldSerializer

@@ -15,15 +15,23 @@ class UserSerializer(serializers.ModelSerializer):
 
 class ImageSerializer(serializers.ModelSerializer):
     
-    path = serializers.ImageField()
+    path = serializers.SerializerMethodField()  
+
 
     class Meta:
         model = Image
         fields = ['name', 'path']
+    
+    def get_path(self, obj):
+        """Return full image URL."""
+        request = self.context.get('request')
+        if obj.path:
+            return request.build_absolute_uri(obj.path.url) if request else obj.path.url
+        return None
 
 class FootballFieldSerializer(serializers.ModelSerializer):
    
-    images = ImageSerializer(many=True, required=False)
+    images = ImageSerializer(many=True, required=False, source="image_set")
 
     class Meta:
         model = FootballField

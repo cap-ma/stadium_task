@@ -565,3 +565,33 @@ TypeError: Image() got unexpected keyword arguments: 'name'
 /home/capma/repo/book_stadion/stadium/models.py changed, reloading.
 Watching for file changes with StatReloader
 "POST /api/stadium/create/ HTTP/1.1" 201 122
+Watching for file changes with StatReloader
+"GET /api/stadium/list?limit=5&offset=1 HTTP/1.1" 200 1147
+/home/capma/repo/book_stadion/stadium/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/stadium/list?limit=5&offset=1 HTTP/1.1" 200 767
+/home/capma/repo/book_stadion/stadium/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/stadium/list?limit=5&offset=1 HTTP/1.1" 200 1147
+/home/capma/repo/book_stadion/stadium/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/stadium/list?limit=5&offset=1 HTTP/1.1" 200 767
+"POST /api/stadium/create/ HTTP/1.1" 201 122
+"GET /api/stadium/list?limit=5&offset=1 HTTP/1.1" 200 767
+"GET /api/stadium/list?limit=10&offset=0 HTTP/1.1" 200 1421
+/home/capma/repo/book_stadion/stadium/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/stadium/list?limit=10&offset=0 HTTP/1.1" 200 1421
+"GET /api/stadium/list?limit=10&offset=0 HTTP/1.1" 200 1421
+Watching for file changes with StatReloader
+"GET /api/stadium/list?limit=10&offset=0 HTTP/1.1" 200 1421
+"GET /api/stadium/list?limit=10&offset=0 HTTP/1.1" 200 1421
+/home/capma/repo/book_stadion/stadium/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/stadium/list?limit=10&offset=0 HTTP/1.1" 200 1421
+/home/capma/repo/book_stadion/stadium/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/stadium/list?limit=10&offset=0 HTTP/1.1" 200 1421
+/home/capma/repo/book_stadion/stadium/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/stadium/list?limit=10&offset=0 HTTP/1.1" 200 1967
